@@ -1,1 +1,3 @@
 # Google-Stock-Price-Trend-Prediction
+
+This application is an implementation of a Recurrent Neural Network that predicts the upward and downward trends that exist in the google stock price. An LSTM (Long Short Term Memory) model that tries to capture the downward and upward trend of the google stock price. The LSTM model on 5 years of data from 2012-2016 and then based on the correlations captured by the LSTM , it predicts the first month of 2017.
